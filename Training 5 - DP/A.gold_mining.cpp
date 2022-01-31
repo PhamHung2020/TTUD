@@ -1,7 +1,5 @@
 #include <iostream>
 
-
-
 using namespace std;
 
 int n, L1, L2;
