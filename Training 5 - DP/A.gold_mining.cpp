@@ -2,6 +2,8 @@
 
 using namespace std;
 
+
+
 int n, L1, L2;
 long long res, a[100100], dp[100100];
 
